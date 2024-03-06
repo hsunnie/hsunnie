@@ -24,9 +24,9 @@
 <br><br><br>
 
 ## Notion
-<a><img src="http://img.shields.io/badge/[goorm] 온라인 코딩 과정-000000?style=flat&logo=Notion&link=https://www.notion.so/6417dbf7a7f3432389ba51c61099a383?v=6159f4eec5c24c7b812c5558309bfad5">
+<a href="https://www.notion.so/6417dbf7a7f3432389ba51c61099a383?v=6159f4eec5c24c7b812c5558309bfad5"><img src="http://img.shields.io/badge/[goorm] 온라인 코딩 과정-000000?style=flat&logo=Notion&link=https://www.notion.so/6417dbf7a7f3432389ba51c61099a383?v=6159f4eec5c24c7b812c5558309bfad5">
 </a>
-<a><img src="http://img.shields.io/badge/금융 AI 빅데이터 분석 풀스텍 개발자 과정-000000?style=flat&logo=Notion&link=https://www.notion.so/ca123fef671a458eb9e92d3a426b2916?v=8b238e8669e441828d4f35a8a459ce53">
+<a href="https://www.notion.so/ca123fef671a458eb9e92d3a426b2916?v=8b238e8669e441828d4f35a8a459ce53"><img src="http://img.shields.io/badge/금융 AI 빅데이터 분석 풀스텍 개발자 과정-000000?style=flat&logo=Notion&link=https://www.notion.so/ca123fef671a458eb9e92d3a426b2916?v=8b238e8669e441828d4f35a8a459ce53">
 </a>
 <br><br><br>
 
