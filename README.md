@@ -28,6 +28,7 @@
 </a>
 <a><img src="http://img.shields.io/badge/금융 AI 빅데이터 분석 풀스텍 개발자 과정-000000?style=flat&logo=Notion&link=https://www.notion.so/ca123fef671a458eb9e92d3a426b2916?v=8b238e8669e441828d4f35a8a459ce53">
 </a>
+<br><br><br>
 
 ## Contact
 `gustjs2513@naver.com`
