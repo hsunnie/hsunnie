@@ -1,5 +1,7 @@
+<div align="center">
+  
 ## 💚 Sunnie 💚
-초보 개발자
+초보 개발자입니다!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsunnie)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsunnie)](https://github.com/anuraghazra/github-readme-stats)
@@ -27,3 +29,4 @@
 </a>
 <a><img src="http://img.shields.io/badge/금융 AI 빅데이터 분석 풀스텍 개발자 과정-000000?style=flat&logo=Notion&link=https://www.notion.so/ca123fef671a458eb9e92d3a426b2916?v=8b238e8669e441828d4f35a8a459ce53">
 </a>
+</div>
