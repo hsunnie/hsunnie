@@ -1,9 +1,8 @@
 <div align="center">
   
-## 💚 Sunnie 💚
-초보 개발자입니다!
+![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=000000&text=🌟%20Sunnie%20🌟&height=150&fontSize=60&descAlignY=75&descAlign=60)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsunnie)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsunnie&layout=compact)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsunnie)](https://github.com/anuraghazra/github-readme-stats)
 <br><br><br>
 
@@ -29,4 +28,7 @@
 </a>
 <a><img src="http://img.shields.io/badge/금융 AI 빅데이터 분석 풀스텍 개발자 과정-000000?style=flat&logo=Notion&link=https://www.notion.so/ca123fef671a458eb9e92d3a426b2916?v=8b238e8669e441828d4f35a8a459ce53">
 </a>
+
+## Contact
+gustjs2513@naver.com
 </div>
