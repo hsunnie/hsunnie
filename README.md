@@ -1,4 +1,4 @@
-## 💚 Sunnie : Starter 💚
+## 💚 Sunnie 💚
 초보 개발자
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsunnie)](https://github.com/anuraghazra/github-readme-stats)
