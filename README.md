@@ -30,5 +30,5 @@
 </a>
 
 ## Contact
-gustjs2513@naver.com
+`gustjs2513@naver.com`
 </div>
